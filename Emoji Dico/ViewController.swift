@@ -3,7 +3,7 @@
 //  Emoji Dico
 //
 //  Created by Jean-baptiste Liouville on 11/09/2017.
-//  Copyright © 2017 Jean-baptiste Liouville. All rights reserved.
+//  Copyright © 2017 Jean-baptiste Liouville. All rights reserved...
 //
 
 import UIKit
